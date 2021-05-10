@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'am Ilaria, a freelance Web Developer, looking to join a joyful team to work for a good cause as a Front-End Developer.
-- 🌲 I've studied HTML, CSS, JavaScript, SASS and React.
+- 🌲 I've studied HTML, CSS, JavaScript, SASS and React. Also a bit of Nodejs, Express and MongoDB.
 - 🌿 I've created websites with WordPress. 
 - 🌵 I am studing PHP, data structures and algorithms.
 - 🍃 I've got a thing for human languages and studied Sanskrit and Tibetan.
