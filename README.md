@@ -2,9 +2,14 @@
 
 I'am Ilaria, a freelance Web Developer, looking to join a joyful team to work for a good cause as a Front-End Developer.
 - 🌲 I've studied HTML, CSS, JavaScript, SASS and React. Also a bit of Nodejs, Express and MongoDB.
-- 🌿 I've created websites with WordPress. 
+- 🌿 I've created beautiful websites with WordPress for my clients. 
 - 🌵 I am studing PHP, data structures and algorithms.
 - 🍃 I've got a thing for human languages and studied Sanskrit and Tibetan.
+
+### How to reach me
+If you are looking for a Front End Developer to join your team, or you'd like to collaborate with me for your next amazing world-changing project, fire an email to: ilaria.callegari@gmail.com
+
+I'll get back to you ASAP! 
 <!--
 **IlariaCallegari/ilariacallegari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
