@@ -7,7 +7,7 @@ I'am Ilaria, a freelance Web Developer, looking to join a joyful team to work fo
 - 🍃 I've also got a thing for human languages and studied Sanskrit and Tibetan.
 
 ### How to reach me
-If you are looking for a Front End Developer to join your team, or you'd like to collaborate with me for your next amazing world-changing project, fire an email to: ilaria.callegari@gmail.com
+If you'd like to collaborate with me for your next amazing world-changing project, fire an email to: ilaria.callegari@gmail.com
 
 I'll get back to you ASAP! 
 <!--
