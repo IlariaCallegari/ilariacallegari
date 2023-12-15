@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 I'am Ilaria, a Creative Front End Developer. 
-- 🌲 I've studied HTML, CSS, JavaScript, SASS and React. Also a bit of Nodejs, Express and MongoDB.
-- 🌿 I've created beautiful websites with WordPress for my clients. 
-- 🌵 I am  currently studying Python with CFG.
-- 🍃 I've also got a thing for human languages and studied Sanskrit and Tibetan.
 
 ### How to reach me
 If you'd like to collaborate with me for your next amazing world-changing project, fire an email to: ilaria.callegari@gmail.com
